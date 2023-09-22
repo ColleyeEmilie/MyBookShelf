@@ -42,24 +42,24 @@ Il sera possible de **suivre certains auteurs** pour être prévenus lors de la 
 
 ## Fonctionnalités de l’application
 
-[créer un compte utilisateur](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/cre%CC%81er%20un%20compte%20utilisateur%20c016e5df79d14da6b558cd909132130b.md)
+[créer un compte utilisateur](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/cre%CC%81er%20un%20compte%20utilisateur.md)
 
-[recommandation de livres](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/recommandation%20de%20livres%201d4c571eaafc42338e2adda4704f4f49.md)
+[recommandation de livres](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/recommandation%20de%20livres.md)
 
-[recommandations d’autres utilisateurs](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/recommandations%20d%E2%80%99autres%20utilisateurs%20fad8840b5f984d688a656c072e3651ac.md)
+[recommandations d’autres utilisateurs](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/recommandations%20d%E2%80%99autres%20utilisateurs.md)
 
-[Scanner des livres](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/Scanner%20des%20livres%207a1e6b20ae844f8e8134e69c4cd956b9.md)
+[Scanner des livres](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/Scanner%20des%20livres.md)
 
-[Système de liste](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/Syste%CC%80me%20de%20liste%20ac23960a251c4804b9ac74aaff0c722e.md)
+[Système de liste](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/Syste%CC%80me%20de%20liste.md)
 
-[Accès aux prochaines/précédentes sorties ](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/Acce%CC%80s%20aux%20prochaines%20pre%CC%81ce%CC%81dentes%20sorties%20d25ad98f7a174f358590c57f6824c409.md)
+[Accès aux prochaines/précédentes sorties ](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/Acce%CC%80s%20aux%20prochaines%20pre%CC%81ce%CC%81dentes%20sorties.md)
 
-[Mettre un commentaire](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/Mettre%20un%20commentaire%20d66ff48652174e47b5369aa545405e8b.md)
+[Mettre un commentaire](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/Mettre%20un%20commentaire%20.md)
 
-[**ajouter un objectif de lecture**](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/ajouter%20un%20objectif%20de%20lecture%2074f1ea10cac44390979119cc05df6eef.md)
+[ajouter un objectif de lecture](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/ajouter%20un%20objectif%20de%20lecture.md)
 
-[**avoir accès à certaines statistiques**](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/avoir%20acce%CC%80s%20a%CC%80%20certaines%20statistiques%20036bead03da34658b73c3a12046d33ab.md)
+[avoir accès à certaines statistiques](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/avoir%20acce%CC%80s%20a%CC%80%20certaines%20statistiques.md)
 
-[Gamification](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/Gamification%2060b302df3642468cbb295ae3be5befa1.md)
+[Gamification](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/Gamification.md)
 
-[Messagerie](%F0%9F%93%9AMyBookShelf%20d869a76e5c7b441aa7c7b859637b43cb/Messagerie%20381ae7402b4c462481fe12befcdc9271.md)
+[Messagerie](https://github.com/ColleyeEmilie/MyBookShelf/blob/main/Fonctionnalites/Messagerie%20.md)
