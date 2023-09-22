@@ -36,28 +36,26 @@ Il sera possible de **suivre certains auteurs** pour être prévenus lors de la 
 
 ## Fonctionnalités de l’application
 
-Création d’un compte utilisateur 
+Pouvoir **créer un compte utilisateur** serait très utile afin de ne pas perdre son compte et pour permettre à l’utilisateur de se connecter sur plusieurs appareils. 
 
-Recommandations de livres 
+La fonction de **recommandations de livres** est dans le but d’éviter les pannes des lectures, ce qui peut arriver assez souvent. Cela pourrait proposer aux utilisateurs des livres qui sont dans le thème de ce qu’ils lisent le plus.
 
-Recommandations d’autres utilisateurs 
+La r**ecommandations d’autres utilisateurs** ainsi que **l’accès à leurs profils** renforcerait le côté social de l’application afin d’avoir la possibilité de prendre contact avec d’autres personnes ayant les mêmes intérêts de lecture que nous ou tout simplement ayant la même passion. 
 
-Accès au profil d’autres utilisateurs 
+Pouvoir **scanner les livres** que les utilisateurs possèdent serait un avantage pour pouvoir ajouter un livre dans la bibliothèque plus facilement, cette fonctionnalité serait aussi intéressante pour scanner un livre dans une librairie et cela pourrait afficher si nous possédons déjà le livre ou pas. 
 
-Scanner les livres que les utilisateurs possèdent 
+Avoir **un système de liste** pour trier les livres dans la bibliothèque peut être intéressante pour l’utilisateur. Cela lui permettrait de trier ses livres en fonction de son appréciation, il pourrait y ajouter également une liste pour y ajouter sa pile à lire, ses envies, ce qu’il a lu et vraiment apprécié ou au contraire ce qu’il a lu mais n’a pas réellement apprécié. 
 
-Système de liste pour trier les livres dans la bibliothèque
+Avoir un **accès aux prochaines sorties** pourra informer les utilisateurs sur les prochaines sorties, l’utilisateur pourrait donc par exemple activer les notification pour être prévenu le jours de la sortie d’un certain livre. 
 
-Accès aux prochaines sorties 
+Avoir un **accès aux précédentes sorties** sera également dans le but d’informer l’utilisateur sur ce qui vient de sortir, cela pourrait lui donner des idées de lecture. 
 
-Accès aux précédentes sorties
+Permettre aux utilisateurs de **mettre un commentaire** sur un livre servirait à renforcer l’aspect de communauté, cela pourrait être utile et intéressant pour les autres utilisateurs de savoir ce que les autres pensent de livre. 
 
-Mettre un commentaire sur un livre 
+Pouvoir **ajouter une note à un livre** permettrait aux utilisateurs de connaître l’avis global des autres utilisateurs sur ce livre
 
-Ajouter une note à un livre
+Un **système de gamification** ajouterai un plus à l’application. Sous forme de badges à afficher sur son profil ou de niveau, cela pourrait encourager certains utilisateurs à faire certaines actions sur l’application. 
 
-Gamification 
+Une **messagerie** permettrait aux utilisateurs de pouvoir se contacter en privé. 
 
-Messagerie 
-
-Objectif de lecture
+Pouvoir **ajouter un objectif de lecture** ou encore **avoir accès à certaines statistiques** tel que “en 2023, j’ai lu 246 livres” peut être intéressant pour l’utilisateur et pour savoir où il en est actuellement. Cela pourrait aussi l’encourager à lire d’autre genre de livre.
